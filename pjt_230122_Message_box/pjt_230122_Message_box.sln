@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pjt_230122_Message_box", "pjt_230122_Message_box\pjt_230122_Message_box.csproj", "{2DA6DE56-3ACA-4F73-BF1B-3D9CF3343155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DA6DE56-3ACA-4F73-BF1B-3D9CF3343155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA6DE56-3ACA-4F73-BF1B-3D9CF3343155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA6DE56-3ACA-4F73-BF1B-3D9CF3343155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA6DE56-3ACA-4F73-BF1B-3D9CF3343155}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F772D66A-BBB6-4000-A9DC-7746A4CC8B88}
+	EndGlobalSection
+EndGlobal

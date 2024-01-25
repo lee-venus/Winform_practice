@@ -1,0 +1,10 @@
+C:\Users\venus\source\repos\pjt_240123_messagebox\pjt_240123_messagebox\bin\Debug\pjt_240123_messagebox.exe.config
+C:\Users\venus\source\repos\pjt_240123_messagebox\pjt_240123_messagebox\bin\Debug\pjt_240123_messagebox.exe
+C:\Users\venus\source\repos\pjt_240123_messagebox\pjt_240123_messagebox\bin\Debug\pjt_240123_messagebox.pdb
+C:\Users\venus\source\repos\pjt_240123_messagebox\pjt_240123_messagebox\obj\Debug\pjt_240123_messagebox.csproj.AssemblyReference.cache
+C:\Users\venus\source\repos\pjt_240123_messagebox\pjt_240123_messagebox\obj\Debug\pjt_240123_messagebox.Form1.resources
+C:\Users\venus\source\repos\pjt_240123_messagebox\pjt_240123_messagebox\obj\Debug\pjt_240123_messagebox.Properties.Resources.resources
+C:\Users\venus\source\repos\pjt_240123_messagebox\pjt_240123_messagebox\obj\Debug\pjt_240123_messagebox.csproj.GenerateResource.cache
+C:\Users\venus\source\repos\pjt_240123_messagebox\pjt_240123_messagebox\obj\Debug\pjt_240123_messagebox.csproj.CoreCompileInputs.cache
+C:\Users\venus\source\repos\pjt_240123_messagebox\pjt_240123_messagebox\obj\Debug\pjt_240123_messagebox.exe
+C:\Users\venus\source\repos\pjt_240123_messagebox\pjt_240123_messagebox\obj\Debug\pjt_240123_messagebox.pdb
