@@ -1,0 +1,10 @@
+C:\Users\venus\source\repos\240218_timer\240218_timer\obj\Debug\240218_timer.csproj.AssemblyReference.cache
+C:\Users\venus\source\repos\240218_timer\240218_timer\obj\Debug\_240218_timer.Form1.resources
+C:\Users\venus\source\repos\240218_timer\240218_timer\obj\Debug\_240218_timer.Properties.Resources.resources
+C:\Users\venus\source\repos\240218_timer\240218_timer\obj\Debug\240218_timer.csproj.GenerateResource.cache
+C:\Users\venus\source\repos\240218_timer\240218_timer\obj\Debug\240218_timer.csproj.CoreCompileInputs.cache
+C:\Users\venus\source\repos\240218_timer\240218_timer\bin\Debug\240218_timer.exe.config
+C:\Users\venus\source\repos\240218_timer\240218_timer\bin\Debug\240218_timer.exe
+C:\Users\venus\source\repos\240218_timer\240218_timer\bin\Debug\240218_timer.pdb
+C:\Users\venus\source\repos\240218_timer\240218_timer\obj\Debug\240218_timer.exe
+C:\Users\venus\source\repos\240218_timer\240218_timer\obj\Debug\240218_timer.pdb
