@@ -1,0 +1,10 @@
+C:\Users\venus\source\repos\pjt_240220_list_add\pjt_240220_list_add\bin\Debug\pjt_240220_list_add.exe.config
+C:\Users\venus\source\repos\pjt_240220_list_add\pjt_240220_list_add\bin\Debug\pjt_240220_list_add.exe
+C:\Users\venus\source\repos\pjt_240220_list_add\pjt_240220_list_add\bin\Debug\pjt_240220_list_add.pdb
+C:\Users\venus\source\repos\pjt_240220_list_add\pjt_240220_list_add\obj\Debug\pjt_240220_list_add.csproj.AssemblyReference.cache
+C:\Users\venus\source\repos\pjt_240220_list_add\pjt_240220_list_add\obj\Debug\pjt_240220_list_add.Form1.resources
+C:\Users\venus\source\repos\pjt_240220_list_add\pjt_240220_list_add\obj\Debug\pjt_240220_list_add.Properties.Resources.resources
+C:\Users\venus\source\repos\pjt_240220_list_add\pjt_240220_list_add\obj\Debug\pjt_240220_list_add.csproj.GenerateResource.cache
+C:\Users\venus\source\repos\pjt_240220_list_add\pjt_240220_list_add\obj\Debug\pjt_240220_list_add.csproj.CoreCompileInputs.cache
+C:\Users\venus\source\repos\pjt_240220_list_add\pjt_240220_list_add\obj\Debug\pjt_240220_list_add.exe
+C:\Users\venus\source\repos\pjt_240220_list_add\pjt_240220_list_add\obj\Debug\pjt_240220_list_add.pdb
